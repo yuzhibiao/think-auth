@@ -13,6 +13,7 @@
             "email": "649392988@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
